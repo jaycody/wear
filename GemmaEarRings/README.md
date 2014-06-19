@@ -3,12 +3,15 @@ for Suzan on her 38th Birthday - 20140613
 __________
 
 ####Hardware:
-- [Gemma] - Adafruit's mini wearable microcontroller
-- [NeoPixel] - Chainable and individually controllable 5050 LEDs 
+- [GEMMA] - Adafruit's mini wearable microcontroller
+- [NeoPixel] - Chainable and individually controllable 5050 LEDs from Adafruit
 
 ####Tutorials:
-- [Intro to Gemma]
+- [Intro to GEMMA Tutorial]
+- [GEMMA Hoop Earrings Tutorial]
+
 
 [NeoPixel]:http://www.adafruit.com/products/1463
-[Gemma]:https://learn.adafruit.com/introducing-gemma/introduction
-[Intro to Gemma]:https://learn.adafruit.com/introducing-gemma/introduction
+[GEMMA]:https://learn.adafruit.com/introducing-gemma/introduction
+[Intro to GEMMA Tutorial]:https://learn.adafruit.com/introducing-gemma/introduction
+[GEMMA Hoop Earrings Tutorial]:https://learn.adafruit.com/gemma-hoop-earrings/overview
