@@ -1,6 +1,6 @@
-##Wearable Projects and Fashion Tech
+## Wearable Projects and Fashion Tech
 __________________
-####Projects:
+#### Projects:
 - [GemmaEarRings] - for Suzan's 38th B-day - June 13, 2014
 	- [GEMMA] - Adafruit's mini wearable microcontroller
 	- [NeoPixel] - Chainable and individually controllable 5050 LEDs from Adafruit
